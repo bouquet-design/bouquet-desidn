@@ -13,7 +13,7 @@ margin-top: 39px;
 
 }
 .bouquet{
-  background-image: url(https://github.com/bouquet-design/bouquet-design./blob/main/bouquet.jpg);
+  background-image: src="https://github.com/bouquet-design/bouquet-design./blob/main/bouquet.jpg";
   background-size: cover;
   background-position: center center;
   background-repeat: no-repeat;
